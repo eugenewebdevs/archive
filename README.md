@@ -6,5 +6,6 @@ please add your slides, recordings, code, etc... in this repo so other can enjoy
 
 Please submit a pull request to add your presentation. Your Pull should include a folder for your work.
 The folder name should be in this format: date-topic-date
+Your folder should included a README.md
 
 Example: 4-15-2016-Build-an-API-antonio
