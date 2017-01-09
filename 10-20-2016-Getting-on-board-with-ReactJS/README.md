@@ -6,6 +6,8 @@ Michael will use slides and examples to give a good introduction to React. As al
 
 Michael Tomcal is a Front End App Developer currently working for CBT Nuggets, a locally-based online training provider. Once again we'll be meeting in the space graciously provided by IDX Broker.
 
-Link to slides presentation on YouTube: https://www.youtube.com/watch?v=stCsvK1s7jo
+Link to slides and audio of presentation on YouTube: https://www.youtube.com/watch?v=stCsvK1s7jo
+
+Link to slides: https://docs.google.com/presentation/d/17OLehf-HS5rF-4lmYGAN7dLNlHFcLCZUj36sAwfFosg/edit?usp=sharing
 
 Link to [Meetup](https://www.meetup.com/eugenewebdev/events/234486732/)
