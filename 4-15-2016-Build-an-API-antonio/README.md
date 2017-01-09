@@ -58,3 +58,5 @@ Fun API Reading:
     https://apisyouwonthate.com/
     http://shop.oreilly.com/product/0636920021223.do
     http://pages.3scale.net/api-design-provider-guide-wb.html
+
+    Link to [Meetup](https://www.meetup.com/eugenewebdev/events/229974876/)
