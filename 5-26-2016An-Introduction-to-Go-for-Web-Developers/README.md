@@ -6,4 +6,4 @@ If you're new to Go or you're an old hand with it, bring your questions, comment
 
 We have a couple options for venue downtown. I'm going to check them out to be sure one will work for us. I'll send a note notice on Wed to let you all know the confirmed location.
 
-link to [Meetup](https://www.meetup.com/eugenewebdev/events/231165409/)
+Link to [Meetup](https://www.meetup.com/eugenewebdev/events/231165409/)
