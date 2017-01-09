@@ -4,4 +4,9 @@ Like ReactJS, GraphQL is yet another technology for your APIs emerging from the 
 
 Nathan Pointer of CBT Nuggets is a recent graduate of the University of Oregon and co-founder of the U of O student developer club. He's also really excited about GraphQL and can't wait to share what he's learned. His talk will focus on what makes GraphQL such a useful tool and how to get started using it in your next project.
 
+Resources mentioned during talk:
+https://learngraphql.com/
+http://www.apollostack.com/
+https://medium.com/apollo-stack
+
 Link to [Meetup](https://www.meetup.com/eugenewebdev/events/232422143/)
