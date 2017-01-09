@@ -12,4 +12,8 @@ Enthusiasm is high for React among our members, so for this month's meetup we'll
 
 We will have plenty of time for discussion as usual, so bring your own experiences, opinions and questions.
 
+Slides for React Native: https://docs.google.com/presentation/d/13y4zhu0HxCnL-jdFU_71SW7zdu36UPtyaTVVekq0xzE/edit?usp=sharing
+
+Slides for React Forms: https://github.com/mtomcal/react-forms-presentation
+
 Link to [Meetup](https://www.meetup.com/eugenewebdev/events/230455261/)
