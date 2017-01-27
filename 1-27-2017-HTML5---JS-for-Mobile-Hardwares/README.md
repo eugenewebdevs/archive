@@ -4,4 +4,8 @@ Can we finally develop once and deploy to multiple platforms and hardware?
 
 Let's also talk about what's new for Eugene Web Devs in 2017.
 
+Source for examples availe in this repo
+
+Slides also available in this repo
+
 YouTube: https://www.youtube.com/watch?v=BBBYXCsV1fQ
