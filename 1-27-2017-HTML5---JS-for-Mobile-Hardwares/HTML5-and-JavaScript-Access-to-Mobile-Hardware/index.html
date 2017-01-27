@@ -1,0 +1,94 @@
+<!doctype html>
+<html manifest="man.appcache" lang="en">
+    <head>
+        <title>
+            HTML5 and Javascript
+        </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="style.css" />
+        <link rel="apple-touch-icon" href="http://antonioortegajr.com/wp-content/uploads/HTML5_Badge_64.png" />
+        <link rel="apple-touch-icon-precomposed" href="http://antonioortegajr.com/wp-content/uploads/HTML5_Badge_64.png" />
+    </head>
+    <body>
+        <div class="nav">
+            <div class="container">
+                <span class="hamburger-icon" onclick="openNav()">&#9776; open</span>
+                <div id="sidenav" class="sidenav">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                    <a href="index.html">Home <i class="fa fa-home"></i></a>
+                    <a href="battery.html">Battery data <i class="fa fa-battery-4"></i></a>
+                    <a href="canvas.html">Camera stream <i class="fa fa-camera"></i></a>
+                    <a href="geolocation.html">Geo Location <i class="fa fa-map-marker"></i></a>
+                    <a href="light.html">Ambiant light <i class="fa fa-lightbulb-o"></i></a>
+                    <a href="patternrex.html">Pattern Regex <i class="fa fa-binoculars"></i></a>
+                    <a href="orientation.html">Orientation <i class="fa fa-mail-forward"></i></a>
+                    <a href="vibration.html">Vibration <i class="fa fa-exclamation"></i></a>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="scripts/main.js">
+        </script>
+        <div class="container">
+            <h1>
+                Web APIs
+                <small>
+                    Mobile Hardware with HTML5 and Javascript
+                </small>
+            </h1>
+            <h2>
+                Introduction
+            </h2>
+            <p>
+                This project has been written using only HTML5 and Javascript. The purpose of this project has been to share and explore the new possibilities available with many of the rising web APIs. Although there are still many "gotchas" and requirements when it comes to implementing the technology, the capabilities and control that are possible warrant experience and research.
+            </p>
+            <div class="warning">
+                <h3>
+                    Warning
+                </h3>
+                <p>
+                    Since many of the APIs we are using will be directly connected to your phone, you will be asked for permission to access some of your hardware.
+                </p>
+            </div>
+            <h2>
+                Resources
+            </h2>
+            <p>
+                The following are tutorials, discussions and documentation we have used and copied to create all of the examples.
+            </p>
+            <ul>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API">
+                        Vibration
+                    </a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events">
+                        Ambient Light Events
+                    </a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API">
+                        Battery Status
+                    </a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation">
+                        Orientation and Gyroscope
+                    </a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API">
+                        Service Workers
+                    </a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Cache">
+                        Cache
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

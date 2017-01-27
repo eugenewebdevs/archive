@@ -1,0 +1,81 @@
+<!doctype html>
+<html manifest="man.appcache" lang="en">
+    <head>
+        <title>
+            HTML5 and Javascript
+        </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="style.css" />
+        <link rel="apple-touch-icon" href="http://antonioortegajr.com/wp-content/uploads/HTML5_Badge_64.png" />
+        <link rel="apple-touch-icon-precomposed" href="http://antonioortegajr.com/wp-content/uploads/HTML5_Badge_64.png" />
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/default.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+    </head>
+    <body>
+        <div class="nav">
+            <div class="container">
+                <span class="hamburger-icon" onclick="openNav()">&#9776; open</span>
+                <div id="sidenav" class="sidenav">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                    <a href="index.html">Home <i class="fa fa-home"></i></a>
+                    <a href="battery.html">Battery data <i class="fa fa-battery-4"></i></a>
+                    <a href="canvas.html">Camera stream <i class="fa fa-camera"></i></a>
+                    <a href="geolocation.html">Geo Location <i class="fa fa-map-marker"></i></a>
+                    <a href="light.html">Ambiant light <i class="fa fa-lightbulb-o"></i></a>
+                    <a href="patternregex.html">Pattern Regex <i class="fa fa-binoculars"></i></a>
+                    <a href="orientation.html">Orientation <i class="fa fa-mail-forward"></i></a>
+                    <a href="vibration.html">Vibration <i class="fa fa-exclamation"></i></a>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="scripts/main.js">
+        </script>
+        <div class="container">
+            <h1>
+                Web APIs
+                <small>
+                    Geolocation API
+                </small>
+            </h1>
+
+            <div class="geolocation">
+                <p>
+                    <div id="location"></div>
+                </p>
+                <button onClick="geolocation()">Try geo location <i class="fa fa-map-marker"></i></button>
+            </div>
+            <pre><code>
+//geolocation js
+function geolocation() {
+    //GEO Location. Requires https
+    var output = document.getElementById("location");
+
+    if (!navigator.geolocation) {
+        output.innerHTML = "<p>Geolocation is not supported by your browser</p>";
+    }
+
+    function success(position) {
+        var latitude = position.coords.latitude;
+        var longitude = position.coords.longitude;
+
+        output.innerHTML = '<p>Latitude is ' + latitude + '° <br>Longitude is ' + longitude + '°</p>';
+
+        var img = new Image();
+        img.src = "https://maps.googleapis.com/maps/api/staticmap?center=" + latitude + "," + longitude + "&zoom=13&size=300x300&sensor=false";
+
+        output.appendChild(img);
+    }
+
+    function error() {
+        output.innerHTML = "Unable to retrieve your location";
+    }
+    output.innerHTML = "<p>Locating…</p>";
+    navigator.geolocation.getCurrentPosition(success, error);
+}
+</code></pre>
+        </div>
+    </body>
+</html>
