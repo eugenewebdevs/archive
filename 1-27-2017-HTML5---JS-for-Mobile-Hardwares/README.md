@@ -3,3 +3,5 @@ We will look at the tools for accessing mobile hardware from a web application w
 Can we finally develop once and deploy to multiple platforms and hardware?
 
 Let's also talk about what's new for Eugene Web Devs in 2017.
+
+YouTube: https://www.youtube.com/watch?v=BBBYXCsV1fQ
