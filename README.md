@@ -14,4 +14,4 @@ Your Pull should include:
 
 * A link to the Meetup page
 
-* The folder name should be in this format: date-topic-date
+* The folder name should be in this format: date-topic
