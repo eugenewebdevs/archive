@@ -4,8 +4,8 @@ Talking about basic CSS and Javascript animation methods as well as showing you 
 
 ## Presentor Contact
 
-http://bau.kim
-https://twitter.com/baudotkim
+* http://bau.kim
+* https://twitter.com/baudotkim
 
 ## Presentation Slides
 
