@@ -1,5 +1,8 @@
 # Bitcoin Blockchain 101
 
+## Presentor Contact
+https://spectralsun.com/
+
 ### Meetup
 https://www.meetup.com/eugenewebdevs/events/243339456/
 
