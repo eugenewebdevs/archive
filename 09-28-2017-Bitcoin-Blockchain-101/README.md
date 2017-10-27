@@ -1,6 +1,6 @@
 # Bitcoin Blockchain 101
 
-## Presentor Contact
+## Presenter Contact
 https://spectralsun.com/
 
 ## Meetup
