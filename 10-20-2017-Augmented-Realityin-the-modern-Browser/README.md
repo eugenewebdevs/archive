@@ -4,6 +4,8 @@ Talk about AR in modern browsers. What can web developers do currently and what 
 
 ## Presenter Contact
 https://github.com/antonioortegajr
+https://twitter.com/antonioortegajr
+https://facebook.com/antonioortegajr
 
 ## Meetup
 https://www.meetup.com/eugenewebdevs/events/243966352/
