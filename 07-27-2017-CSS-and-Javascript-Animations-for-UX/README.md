@@ -2,7 +2,7 @@
 
 Talking about basic CSS and Javascript animation methods as well as showing you the popular tools developers are using, and end with a discussion on best practices for animation in user interface development.
 
-## Presentor Contact
+## Presenter Contact
 
 * http://bau.kim
 * https://twitter.com/baudotkim
