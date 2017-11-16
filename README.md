@@ -2,7 +2,7 @@
 Past Meet Ups Presentations
 
 If you have presented in a past Eugene Web Devs Meet Up or the PHP Meet Ups (as the group was formally known),
-please add your slides, recordings, code, etc... in this repo so other can enjoy later!
+please add your slides, recordings, code, etc... in this repo so others can enjoy later!
 
 Please submit a pull request to add your presentation resources.
 
