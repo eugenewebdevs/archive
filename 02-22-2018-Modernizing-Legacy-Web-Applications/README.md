@@ -5,6 +5,8 @@ We all have those old applications with procedural code that isn't fun to work o
 ## Speaker
 Jason Welch
 
-Youtube: 
+Youtube: https://youtu.be/exRRHDh1zdE
+
+Example code: https://github.com/jdubwelch/bookoceancrest
 
 Link to meet up event:https://www.meetup.com/eugenewebdevs/events/247296535/ 
