@@ -9,4 +9,6 @@ Youtube: https://youtu.be/exRRHDh1zdE
 
 Example code: https://github.com/jdubwelch/bookoceancrest
 
-Link to meet up event:https://www.meetup.com/eugenewebdevs/events/247296535/ 
+Slides: https://docs.google.com/presentation/d/1DmrR7xERaCFSLErsUxRRB2Z7FNsNdZOwlFaQS4sNiV8/edit?usp=sharing
+
+Link to meet up event:https://www.meetup.com/eugenewebdevs/events/247296535/
