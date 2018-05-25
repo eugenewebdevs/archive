@@ -10,6 +10,6 @@ Last year we talked about how easy it is to add animations into your web sites a
 
 https://www.meetup.com/eugenewebdevs/events/250461837/
 
-
+YouTube: https://youtu.be/LUTNEOIFLJU?t=15m29s (first 15 min has no aduio due to a bad cable.)
 Slides: https://docs.google.com/presentation/d/1bvvPoXaORUYyF5vq5KiHxbdpoiSx9_qQesXDuPrhU1Q/edit?usp=sharing
 Twitter: @baudotkim
