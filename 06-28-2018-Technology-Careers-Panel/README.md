@@ -2,8 +2,8 @@
 
 ## Speakers
 
-[Chris Sjoblom](https://www.linkedin.com/in/csjoblom/)
-[Janice Little](https://www.linkedin.com/in/janice-nyland-little/)
+* [Chris Sjoblom](https://www.linkedin.com/in/csjoblom/)
+* [Janice Little](https://www.linkedin.com/in/janice-nyland-little/)
 
 ## Meetup
 [Meet up link](https://www.meetup.com/eugenewebdevs/events/251932457/)
