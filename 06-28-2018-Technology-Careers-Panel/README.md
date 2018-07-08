@@ -10,7 +10,7 @@
 
 ## Youtube
 
-[Live Stream)[https://www.youtube.com/watch?v=VEz8FDNA3sw)
+[Live Stream](https://www.youtube.com/watch?v=VEz8FDNA3sw)
 
 ## Links
 
