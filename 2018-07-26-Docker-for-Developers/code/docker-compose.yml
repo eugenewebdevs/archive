@@ -1,0 +1,30 @@
+version: '3.3'
+
+services:
+  db:
+    image: postgres:9.6
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: frontend
+      POSTGRES_DB: frontend
+  migrations:
+    build: 
+      context: migrations
+      dockerfile: Dockerfile
+    depends_on:
+      - db  
+    environment:
+      DATABASE_URL: postgresql://frontend:password@db:5432/frontend
+  frontend:
+    build: .
+    depends_on:
+      - db
+      - migrations
+    ports:
+      - "8080:8080"
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://frontend:password@db:5432/frontend
