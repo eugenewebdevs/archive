@@ -10,7 +10,7 @@ Your Pull should include:
 
 * A folder for your slides, code examples, link to video etc...
 
-* Your folder should included a README.md Example: 4-15-2016-Build-an-API-antonio
+* Your folder should included a README.md and be named something like `2016-04-15-Build-an-API-antonio`
 
 * A link to the Meetup page
 
