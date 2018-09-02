@@ -16,3 +16,4 @@ https://docs.google.com/presentation/d/18TsxH7KaWtPAn_WH55xFaxjt4TvrdTFSTm9eMX45
 * Facebook - /supernikole
 * Website - supernikole.com
 * Instagram or Twitter - @websupergirl
+* Blog post - https://supernikole.com/wordpress-security-a-walkthrough-of-an-attack/
