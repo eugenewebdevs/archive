@@ -19,18 +19,18 @@ https://docs.google.com/presentation/d/18TsxH7KaWtPAn_WH55xFaxjt4TvrdTFSTm9eMX45
 * Twitter - https://twitter.com/websupergirl
 
 ## Resources from talk:
-* Blacklists:
- ** Sucuri Sitecheck - https://sitecheck.sucuri.net/
- ** MX Toolbox - https://mxtoolbox.com/blacklists.aspx
+### Blacklists:
+ * Sucuri Sitecheck - https://sitecheck.sucuri.net/
+ * MX Toolbox - https://mxtoolbox.com/blacklists.aspx
  
-* Hosting:
- ** Fully Managed Hosting from That Super Girl - https://www.thatsupergirl.com/fully-managed-hosting/
- ** LiquidWeb Managed WP Hosting - https://www.liquidweb.com/products/managed-wordpress/
- ** Flywheel Managed WP Hosting - https://getflywheel.com/
- ** WP Engine Managed WP Hosting - https://wpengine.com/
- ** Cloudways Managed Hosting - https://www.cloudways.com/en/
+### Hosting:
+ * Fully Managed Hosting from That Super Girl - https://www.thatsupergirl.com/fully-managed-hosting/
+ * LiquidWeb Managed WP Hosting - https://www.liquidweb.com/products/managed-wordpress/
+ * Flywheel Managed WP Hosting - https://getflywheel.com/
+ * WP Engine Managed WP Hosting - https://wpengine.com/
+ * Cloudways Managed Hosting - https://www.cloudways.com/en/
  
-* Security notifications: 
- ** Super Alerts - https://www.thatsupergirl.com/super-alerts/
- ** Wordfence Alerts - https://www.wordfence.com/blog/ (signup at bottom of page)
+### Security notifications: 
+ * Super Alerts - https://www.thatsupergirl.com/super-alerts/
+ * Wordfence Alerts - https://www.wordfence.com/blog/ (signup at bottom of page)
 
