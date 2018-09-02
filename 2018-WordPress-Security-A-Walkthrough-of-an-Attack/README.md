@@ -33,3 +33,4 @@ https://docs.google.com/presentation/d/18TsxH7KaWtPAn_WH55xFaxjt4TvrdTFSTm9eMX45
 * Security notifications: 
  ** Super Alerts - https://www.thatsupergirl.com/super-alerts/
  ** Wordfence Alerts - https://www.wordfence.com/blog/ (signup at bottom of page)
+
