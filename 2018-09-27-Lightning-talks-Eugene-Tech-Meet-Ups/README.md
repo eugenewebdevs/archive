@@ -41,7 +41,7 @@ Join us and many of the meet up organizers from our Eugene tech scene as we talk
 * [instagram](https://www.instagram.com/redefiningwomenintech/)
 
 ### Eugene Women in Tech
-
+* [eugenewomenintech.org](https://eugenewomenintech.org/)
 * [facebook](https://www.facebook.com/groups/eugenewomentech/)
 
 ### EUG Go
