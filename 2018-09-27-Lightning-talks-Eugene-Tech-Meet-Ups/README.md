@@ -46,6 +46,7 @@ Join us and many of the meet up organizers from our Eugene tech scene as we talk
 
 * [euggo.org](https://www.euggo.org/)
 * [meetup.com](https://www.meetup.com/EUG-Go/)
+* [github](https://github.com/euggo)
 
 
 ### ELM EUG
