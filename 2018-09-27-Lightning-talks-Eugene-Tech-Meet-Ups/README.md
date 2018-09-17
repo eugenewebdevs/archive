@@ -28,6 +28,8 @@
 
 ### Eugene Blockchain
 
+* [meetup.com](https://www.meetup.com/meetup-group-aynVxiTT/)
+
 ### Redefining Women in Tech
 
 * [redefiningwomenintech.com](http://redefiningwomenintech.com/)
@@ -49,6 +51,8 @@
 
 
 ### IGDA: Eugene
+* [meetup.com](https://www.meetup.com/Bitforest/)
+* [facebook](https://www.facebook.com/groups/eugenegamedevs/)
 
 
 ### Product People Coffee Meetup
