@@ -51,7 +51,7 @@
 
 ### Product People Coffee Meetup
 
-* [name](link)
+* [meetup.com](https://www.meetup.com/Product-People-Coffee-Meetup/)
 
 ### Eugene Tech
 
