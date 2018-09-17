@@ -37,6 +37,8 @@ Join us and many of the meet up organizers from our Eugene tech scene as we talk
 
 * [redefiningwomenintech.com](http://redefiningwomenintech.com/)
 * [facebook](https://www.facebook.com/groups/redefiningwomenintech)
+* [twitter](https://twitter.com/rewomenintech)
+* [instagram](https://www.instagram.com/redefiningwomenintech/)
 
 ### Eugene Women in Tech
 
@@ -69,4 +71,4 @@ Join us and many of the meet up organizers from our Eugene tech scene as we talk
 * [meetup.com](https://www.meetup.com/EugeneTech/)
 * [facebook](https://www.facebook.com/EugTech/)
 * [twitter](https://twitter.com/EugTech?lang=en)
-* [yourube](https://www.youtube.com/channel/UCkorqQcfm406b77slRoB2Qg)
+* [youtube](https://www.youtube.com/channel/UCkorqQcfm406b77slRoB2Qg)
