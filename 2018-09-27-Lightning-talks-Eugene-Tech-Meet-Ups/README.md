@@ -24,15 +24,7 @@
 
 ### Eugene Area SQL Server User Group
 
-* [name](link)
-* [name](link)
-* [name](link)
-
 ### Eugene Blockchain
-
-* [name](link)
-* [name](link)
-* [name](link)
 
 ### Redefining Women in Tech
 
@@ -41,10 +33,7 @@
 
 ### Eugene Women in Tech
 
-* [name](link)
-* [name](link)
-* [name](link)
-
+* [facebook](https://www.facebook.com/groups/eugenewomentech/)
 
 ### EUG Go
 
