@@ -54,24 +54,15 @@
 
 ### ELM EUG
 
-* [name](link)
-* [name](link)
-* [name](link)
+* [meetup.com](https://www.meetup.com/Elm-Eug/)
 
 
 ### IGDA: Eugene
-
-* [name](link)
-* [name](link)
-* [name](link)
 
 
 ### Product People Coffee Meetup
 
 * [name](link)
-* [name](link)
-* [name](link)
-
 
 ### Eugene Tech
 
