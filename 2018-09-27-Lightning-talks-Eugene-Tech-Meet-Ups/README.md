@@ -11,6 +11,7 @@
 * [github](https://github.com/eugenewebdevs)
 * [facebook](https://www.facebook.com/eugenewebdevs/)
 * [twitter](https://twitter.com/eugenewebdevs)
+* [youtube](https://www.youtube.com/channel/UCRXRsCJF_H0Ue3g-u9_FmAg)
 
 ### PyEugene
 
