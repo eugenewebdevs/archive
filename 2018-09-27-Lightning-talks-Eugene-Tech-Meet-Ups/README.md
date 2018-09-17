@@ -18,32 +18,65 @@
 * [meetup.com](https://www.meetup.com/pyeugene/)
 * [github](https://github.com/PyEugene)
 
-### name
+### Eugene Cybersecurity
+
+* [meetup.com](https://www.meetup.com/Eugene-Cybersecurity/)
+
+### Eugene Area SQL Server User Group
 
 * [name](link)
 * [name](link)
 * [name](link)
 
-### name
+### Eugene Blockchain
 
 * [name](link)
 * [name](link)
 * [name](link)
 
-### name
+### Redefining Women in Tech
+
+* [redefiningwomenintech.com](http://redefiningwomenintech.com/)
+* [facebook](https://www.facebook.com/groups/redefiningwomenintech)
+
+### Eugene Women in Tech
 
 * [name](link)
 * [name](link)
 * [name](link)
 
-### name
+
+### EUG Go
+
+* [euggo.org](https://www.euggo.org/)
+* [meetup.com](https://www.meetup.com/EUG-Go/)
+
+
+### ELM EUG
 
 * [name](link)
 * [name](link)
 * [name](link)
 
-### name
+
+### IGDA: Eugene
 
 * [name](link)
 * [name](link)
 * [name](link)
+
+
+### Product People Coffee Meetup
+
+* [name](link)
+* [name](link)
+* [name](link)
+
+
+### Eugene Tech
+
+* [eugenetech.org](https://eugenetech.org/)
+* [meetup.com](https://www.meetup.com/EugeneTech/)
+* [facebook](https://www.facebook.com/EugTech/)
+* [twitter](https://twitter.com/EugTech?lang=en)
+* [yourube](https://www.youtube.com/channel/UCkorqQcfm406b77slRoB2Qg)
