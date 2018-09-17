@@ -23,6 +23,7 @@
 * [meetup.com](https://www.meetup.com/Eugene-Cybersecurity/)
 
 ### Eugene Area SQL Server User Group
+* [meetup.com](https://www.meetup.com/Eugene-Area-SQL-Server-User-Group/)
 
 ### Eugene Blockchain
 
