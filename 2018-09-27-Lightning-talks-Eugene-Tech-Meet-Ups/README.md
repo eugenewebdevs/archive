@@ -5,7 +5,7 @@
 
 Join us and many of the meet up organizers from our Eugene tech scene as we talk about our meet ups and what you can expect when you attend. Meet up speakers from local tech meet ups
 
-## Eugene Meet ups
+## Local Eugene Meet ups
 
 ### Eugene Web Devs
 
