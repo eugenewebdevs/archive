@@ -3,9 +3,9 @@
 ## About 
 Meet up link: https://www.meetup.com/eugenewebdevs/events/254258885/
 
-Join us and many of the meet up organizers from our Eugene tech scene as we talk about our meet ups and what you can expect when you attend. Meet up speakers from local tech meet ups
+Join us and many of the meet up organizers from our Eugene tech scene as we talk about our meet ups and what you can expect when you attend. Speakers will be there from the following groups:
 
-## Local Eugene Meet ups
+## Local tech Meet ups
 
 ### Eugene Web Devs
 
