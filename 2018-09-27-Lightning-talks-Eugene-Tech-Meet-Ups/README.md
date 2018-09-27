@@ -55,6 +55,11 @@ Join us and many of the meet up organizers from our Eugene tech scene as we talk
 
 * [meetup.com](https://www.meetup.com/Elm-Eug/)
 
+### Eugene R Users
+
+* [meetup.com](https://www.meetup.com/meetup-group-cwPiAlnB/)
+* [twitter](https://twitter.com/EugeneRUsers)
+
 
 ### IGDA: Eugene
 * [meetup.com](https://www.meetup.com/Bitforest/)
