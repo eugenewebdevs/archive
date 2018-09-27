@@ -64,6 +64,7 @@ Join us and many of the meet up organizers from our Eugene tech scene as we talk
 ### IGDA: Eugene
 * [meetup.com](https://www.meetup.com/Bitforest/)
 * [facebook](https://www.facebook.com/groups/eugenegamedevs/)
+* [indiegamecon.com](http://indiegamecon.com/)
 
 
 ### Product People Coffee Meetup
