@@ -1,7 +1,9 @@
 # Lightning talks: Eugene Tech Meet Ups
 
 ## About 
-Meet up link: https://www.meetup.com/eugenewebdevs/events/254258885/
+
+* Meet up link: https://www.meetup.com/eugenewebdevs/events/254258885/
+* Slides: https://docs.google.com/presentation/d/1ImzXGfXoHvFZnQY1V8avogfAAXlTCnQ1YcU9zUvJJ9s/edit?usp=sharing
 
 Join us and many of the meet up organizers from our Eugene tech scene as we talk about our meet ups and what you can expect when you attend. Speakers will be there from the following groups:
 
