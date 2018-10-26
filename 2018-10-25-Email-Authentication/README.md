@@ -12,4 +12,14 @@ Neil Anuskiewicz, a DNS and email expert, will describe the problems caused by i
 
 https://www.meetup.com/eugenewebdevs/events/mnpqkqyxnbhc/
 
+## Slides
+
+https://slides.com/marmot777/email_authentication
+
 ## Links referenced in presentation
+
+* https://dmarcian.com/spf-survey/
+* https://emailstuff.org/rfc/4408
+* https://dmarcian.com/
+* https://returnpath.com/
+* https://www.agari.com/
