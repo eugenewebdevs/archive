@@ -11,3 +11,5 @@ Neil Anuskiewicz, a DNS and email expert, will describe the problems caused by i
 ## Meetup
 
 https://www.meetup.com/eugenewebdevs/events/mnpqkqyxnbhc/
+
+## Links referenced in presentatio
