@@ -19,4 +19,5 @@ https://webassembly.org/docs/future-features/
 
 
 https://arxiv.org/abs/1901.09056
+https://github.com/mbasso/awesome-wasm
 
