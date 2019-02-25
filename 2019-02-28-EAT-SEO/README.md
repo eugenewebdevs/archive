@@ -6,6 +6,8 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [meet up link](https://www.meetup.com/eugenewebdevs/events/258744186/)
 
+## [Slides](https://docs.google.com/presentation/d/1TSWa2YjiWsJzj1LRnZKCxoceZRUTUGo9LWVP6iuMKNM/edit?usp=sharing)
+
 ## Links
 
 [https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors](https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors)
