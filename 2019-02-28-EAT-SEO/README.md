@@ -14,6 +14,10 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [SEO Starter Guide (Google)](https://support.google.com/webmasters/answer/7451184?hl=en)
 
+[Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+[Lighthouse Audits](https://developers.google.com/web/tools/lighthouse/)
+
 [https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors](https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors)
 
 [https://searchengineland.com/5-seo-trends-that-will-matter-most-in-2019-307641](https://searchengineland.com/5-seo-trends-that-will-matter-most-in-2019-307641)
