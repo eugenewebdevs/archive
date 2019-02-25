@@ -12,6 +12,8 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 ## Links
 
+[SEO Starter Guide (Google)](https://support.google.com/webmasters/answer/7451184?hl=en)
+
 [https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors](https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors)
 
 [https://searchengineland.com/5-seo-trends-that-will-matter-most-in-2019-307641](https://searchengineland.com/5-seo-trends-that-will-matter-most-in-2019-307641)
@@ -19,3 +21,7 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 [https://developers.google.com/web/tools/chrome-user-experience-report/](https://developers.google.com/web/tools/chrome-user-experience-report/)
 
 [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+
+[https://www.thinkwithgoogle.com/feature/mobile/](https://www.thinkwithgoogle.com/feature/mobile/)
+
+[https://developers.google.com/search/docs/guides/intro-structured-data](https://developers.google.com/search/docs/guides/intro-structured-data)
