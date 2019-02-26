@@ -18,6 +18,8 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [Lighthouse Audits](https://developers.google.com/web/tools/lighthouse/)
 
+[Search Quality Evaluator Guide](https://static.googleusercontent.com/media/www.google.co.uk/en/uk/insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)
+
 [https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors](https://searchengineland.com/guide/seo/types-of-search-engine-ranking-factors)
 
 [https://searchengineland.com/5-seo-trends-that-will-matter-most-in-2019-307641](https://searchengineland.com/5-seo-trends-that-will-matter-most-in-2019-307641)
