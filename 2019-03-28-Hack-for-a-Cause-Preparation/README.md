@@ -39,7 +39,7 @@ We need a way for parents to schedule respite child care using their phone.
 
 Homeless Resource Finder application for Lane County
 
-#### City of Eugene: Tools for Community Engagement
+### City of Eugene: Tools for Community Engagement
 
 Explore using beacon technology to send a signal to a City of Eugene project phone application at project sites. Upon passing a project site, the application would show a notification on the app. Upon opening the app, the community member is presented with the project information and can learn more about it.
 
