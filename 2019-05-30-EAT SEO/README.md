@@ -28,6 +28,8 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [Google Mobile Indexing Tweet](https://twitter.com/searchliaison/status/978338963411750912)
 
+[New Look for Google Search](https://www.blog.google/products/search/new-design-google-search/)
+
 [Google Test My Site](https://www.thinkwithgoogle.com/feature/testmysite)
 
 [Google Page Speed Test](https://developers.google.com/speed/pagespeed/insights/)
