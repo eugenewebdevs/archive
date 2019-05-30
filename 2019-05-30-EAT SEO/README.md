@@ -28,6 +28,8 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [Google Mobile Indexing Tweet](https://twitter.com/searchliaison/status/978338963411750912)
 
+[New Look for Google Search](https://www.blog.google/products/search/new-design-google-search/)
+
 [Google Test My Site](https://www.thinkwithgoogle.com/feature/testmysite)
 
 [Google Page Speed Test](https://developers.google.com/speed/pagespeed/insights/)
@@ -48,10 +50,10 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [Dynamic Rendering](https://developers.google.com/search/docs/guides/dynamic-rendering)
 
+[Rendertron](https://github.com/GoogleChrome/rendertron)
+
 [React Snap](https://github.com/stereobooster/react-snap)
 
 [Angular Universal](https://angular.io/guide/universal)
 
 [Google Webmasters YouTube](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
-
-[SEO Starter Guide (Google)](https://support.google.com/webmasters/answer/7451184?hl=en)
