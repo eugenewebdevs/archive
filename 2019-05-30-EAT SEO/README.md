@@ -48,10 +48,10 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [Dynamic Rendering](https://developers.google.com/search/docs/guides/dynamic-rendering)
 
+[Rendertron](https://github.com/GoogleChrome/rendertron)
+
 [React Snap](https://github.com/stereobooster/react-snap)
 
 [Angular Universal](https://angular.io/guide/universal)
 
 [Google Webmasters YouTube](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
-
-[SEO Starter Guide (Google)](https://support.google.com/webmasters/answer/7451184?hl=en)
