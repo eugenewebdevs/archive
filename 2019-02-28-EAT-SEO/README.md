@@ -1,4 +1,4 @@
-# EAT SEO
+# EAT SEO - Cancelled
 
 ## Meetup
 
