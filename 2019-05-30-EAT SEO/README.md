@@ -6,13 +6,13 @@ Join Bishop Lafer, Marketing Developer Analyst at IDX Broker, as he discusses Ex
 
 [meet up link](https://www.meetup.com/eugenewebdevs/events/260185305/)
 
+[YouTube](https://youtu.be/y7XGG4O_IMM)
+
 ## Slides
 
 [E-A-T SEO](https://slides.com/antonioortega-1/eat-seo)
 
 ## Links
-
-[YouTube](https://youtu.be/y7XGG4O_IMM)
 
 [Search Quality Evaluator Guide](https://static.googleusercontent.com/media/www.google.co.uk/en/uk/insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)
 
