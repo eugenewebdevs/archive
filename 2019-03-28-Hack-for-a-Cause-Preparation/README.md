@@ -17,11 +17,12 @@ Questions
 
 ## Links
 
-* website - https://hackforacause.org
-* slides - https://docs.google.com/presentation/d/1naxWKTJhUS0vS7Xi-RZaApf2wjjNFmpMMag45bReyhI/edit?usp=sharing
-* mvp sutio - https://mvpstudio.org/
+* Website - https://hackforacause.org
+* Slides - https://docs.google.com/presentation/d/1naxWKTJhUS0vS7Xi-RZaApf2wjjNFmpMMag45bReyhI/edit?usp=sharing
+* MVP Studio - https://mvpstudio.org/
+* WIP H4C Attendee Guide - https://github.com/Hack4Eugene/hack-4-cause-2019-guide
 
-## Challenges
+## [Challenges](https://hackforacause.org/challenges-2019)
 
 ### Oregon Campaign Trail: Civic engagement for candidates
 
@@ -52,7 +53,10 @@ Challenging our indie gamers to build out the Urban Pong experience by creating 
 
 Technology will allow for a setup of a donation portal, in which a few select featured people (chronically homeless) will be able to tell their story and solicit donations for items that will impact them the most.
 
-### Lane County Government: 
+## Special Grand Challenge
+All are welcome to participate. This is a non-competitive challenge where professionals are doing paired programming with students. This effort uses a single repository and the prize is accomplishment and recognition.
 
-Accurate information on the availability of Internet Service Providers, actual prices paid, and real speeds received.
+### Lane County Government: Speed Up America (Grand Challenge)
+The challenge focuses on accurate information on the availability of Internet Service Providers, actual prices paid, and real speeds received.
+
 
