@@ -26,6 +26,8 @@ Progressive Web App checklist: https://developers.google.com/web/progressive-web
 
 Using Service Workers + Worker Lifecycle cheatsheet: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers#Basic_architecture
 
+ServiceWorker cookbook: https://serviceworke.rs/
+
 Webpack plugin for Workbox: https://developers.google.com/web/tools/workbox/modules/workbox-webpack-plugin
 
 The ServiceWorker is coming, look busy: https://youtube.com/watch?v=SmZ9XcTpMS4
