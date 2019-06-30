@@ -22,6 +22,8 @@ Can I Use Service Workers: https://caniuse.com/#search=service%20workers
 
 Is Service Worker Ready? https://jakearchibald.github.io/isserviceworkerready
 
+Progressive Web App Checklist: https://developers.google.com/web/progressive-web-apps/checklist
+
 The ServiceWorker is coming, look busy: https://youtube.com/watch?v=SmZ9XcTpMS4
 
 ServiceWorkers Outbreak: https://youtube.com/watch?v=CPP9ew4Co0M
