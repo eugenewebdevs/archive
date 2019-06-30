@@ -2,7 +2,7 @@
 
 ## About
 
-Yves will be exploring what service workers are and how to implement them in your applications. The talk will include use cases, details on the benefits and caveats of using service workers, and info on Workbox (a Google library to facilitate the usage of workers). We will also explore the Cache API and how you can create an experience close to (or even better than) native mobile apps with service workers.
+In this presentation, Yves explores what service workers are and how to implement them in your application. The talk includes use cases, details on the benefits and caveats of using service workers, and info on Workbox (a Google library to facilitate the usage of workers). We also explore how you can create an experience close to (or even better than) native mobile apps with service workers and progressive web apps.
 
 ## Meet up
 
