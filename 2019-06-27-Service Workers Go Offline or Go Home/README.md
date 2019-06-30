@@ -32,4 +32,4 @@ Webpack plugin for Workbox: https://developers.google.com/web/tools/workbox/modu
 
 The ServiceWorker is coming, look busy: https://youtube.com/watch?v=SmZ9XcTpMS4
 
-ServiceWorkers Outbreak: https://youtube.com/watch?v=CPP9ew4Co0M
+ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js: https://youtube.com/watch?v=CPP9ew4Co0M
