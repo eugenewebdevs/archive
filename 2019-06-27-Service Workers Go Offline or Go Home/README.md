@@ -14,14 +14,14 @@ https://youtu.be/Gzfux0xfwlY
 
 ## Links
 
-Slides: github.com/eugenewebdevs/archive/tree/master/2019-06-27-Service-Workers
+Slides: https://github.com/eugenewebdevs/archive/tree/master/2019-06-27-Service-Workers
 
-State of JavaScript 2018: 2018.stateofjs.com/other-tools
+State of JavaScript 2018: https://2018.stateofjs.com/other-tools
 
-Can I Use Service Workers: caniuse.com/#search=service%20workers
+Can I Use Service Workers: https://caniuse.com/#search=service%20workers
 
-Is Service Worker Ready? jakearchibald.github.io/isserviceworkerready
+Is Service Worker Ready? https://jakearchibald.github.io/isserviceworkerready
 
-The ServiceWorker is coming, look busy: youtube.com/watch?v=SmZ9XcTpMS4
+The ServiceWorker is coming, look busy: https://youtube.com/watch?v=SmZ9XcTpMS4
 
-ServiceWorkers Outbreak: youtube.com/watch?v=CPP9ew4Co0M
+ServiceWorkers Outbreak: https://youtube.com/watch?v=CPP9ew4Co0M
