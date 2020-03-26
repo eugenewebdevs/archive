@@ -8,7 +8,7 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 ## Links
 
 * [Slides](https://docs.google.com/presentation/d/13VTWBlUkiylzs7RtQkPWuFq70myF_tNtcKJlnv6eik8/edit?usp=sharing)
-* [Video] (https://www.youtube.com/watch?v=a-AYUOI4r0A)
+* [Video](https://www.youtube.com/watch?v=a-AYUOI4r0A)
 * [Meetup](https://www.meetup.com/eugenewebdevs/events/264942113/)
 * Presenters: [Nikole](https://github.com/websupergirl) and [Greg](https://github.com/mckelveygreg)
 * Demos:
