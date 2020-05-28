@@ -1,5 +1,5 @@
 # running-everywhere-with-react-native
-Repo for Eugene WEb Devs talk on React Native
+Repo for Eugene Web Devs talk on React Native
 
 ## About
 
