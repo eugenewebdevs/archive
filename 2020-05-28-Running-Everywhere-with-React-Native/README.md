@@ -16,7 +16,7 @@ React Native is a JS platform that promises developers the holy grail of writing
 ## Resources
 
 * [React Native Docs](https://reactnative.dev)
-[Getting Started](https://reactnative.dev/docs/0.5/getting-started)
+* [Getting Started](https://reactnative.dev/docs/0.5/getting-started)
 * [React Native for Win + Mac](https://microsoft.github.io/react-native-windows/)
 * [Payment Support via Expo](https://docs.expo.io/versions/latest/sdk/payments/)
 * [React](https://reactjs.org/docs/getting-started.html)
