@@ -21,4 +21,7 @@ Github Co pilot is Github’s Machine Learning powered code writing companion. T
 ## Links mentioned in talk
 
 - [GPT-3](https://openai.com/blog/gpt-3-apps/)
+- [tabnine](https://www.tabnine.com/)
+- [IDXBroker API](https://developers.idxbroker.com/idx-broker-api/)
+- [Leet Code Example](https://leetcode.com/problems/two-sum/0)
 - [Security Article](https://www.toolbox.com/tech/security/news/40-of-code-produced-by-github-copilot-vulnerable-to-threats-research/)
