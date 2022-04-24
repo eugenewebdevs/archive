@@ -8,7 +8,7 @@ Github Co pilot is Github’s Machine Learning powered code writing companion. T
 ## Event Links
 
 - [Slides]()
-- [Video]()
+- [Video](https://youtu.be/UcMEu74A530)
 - [MeetUp](https://www.meetup.com/eugenewebdevs/events/285087896/)
 
 ## Resources
