@@ -16,3 +16,15 @@ This event will be streamed as well. The link will be in the comments below when
 ## Resources
 
 ## Links mentioned in talk
+
+- https://openai.com/blog/chatgpt/
+- https://en.wikipedia.org/wiki/GPT-3
+- https://www.craiyon.com/
+- https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+- https://replicate.com/blog/run-stable-diffusion-on-m1-mac
+- https://diffusionbee.com/
+
+## Thank You Artists
+
+- https://www.instagram.com/alybrowny/
+- https://www.instagram.com/adamsapple243/
