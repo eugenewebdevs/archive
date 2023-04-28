@@ -8,7 +8,7 @@ Join Greg as we explore practical improvements to the entire development process
 
 ## Event Links
 
-- [Slides]()
+- [Slides](https://slides.com/d/BRVTWGo/live#/13/0/0)
 - [Video](https://www.youtube.com/watch?v=lrXyUqGh3Vs)
 - [MeetUp](https://www.meetup.com/eugenewebdevs/events/292754389/)
 
