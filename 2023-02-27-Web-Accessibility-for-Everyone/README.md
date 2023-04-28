@@ -2,8 +2,7 @@
 
 ## About
 
-Join Greg as we explore practical improvements to the entire development process that can turn Accessibility from a chore in to a catalyst.emo a plugin he wrote for Obsidian and share his process.
-
+Join Greg as we explore practical improvements to the entire development process that can turn Accessibility from a chore in to a catalyst.
 
 ## Event Links
 
