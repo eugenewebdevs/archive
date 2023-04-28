@@ -30,6 +30,4 @@ https://github.com/dequelabs/axe-core/blob/develop/doc/projects.md#deque-project
 
 https://pa11y.org/
 
-https://chrome.google.com/webstore/detail/accessibility-insights-fo/
-
-pbjjkligggfmakdaogkfomddhfmpjeni?hl=en
+https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en
