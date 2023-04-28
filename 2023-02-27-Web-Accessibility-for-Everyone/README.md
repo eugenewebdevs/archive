@@ -14,8 +14,11 @@ Join Greg as we explore practical improvements to the entire development process
 ## Resources
 
 Connect with Greg!
+
 Twitter: https://twitter.com/Whyisbecause
+
 Linkedin: https://www.linkedin.com/in/mckelveygreg/
+
 Github: https://github.com/mckelveygreg
 
 
