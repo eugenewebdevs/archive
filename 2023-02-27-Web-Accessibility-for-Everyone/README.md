@@ -1,5 +1,4 @@
 # Web Accessibility for Everyone: A collaborative approach on Design, Dev, and PM
-Repo for Eugene Web Devs talk How to Tend a Knowledge Garden
 
 ## About
 
