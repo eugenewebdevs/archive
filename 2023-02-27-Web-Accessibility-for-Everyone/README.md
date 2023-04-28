@@ -21,8 +21,15 @@ Github: https://github.com/mckelveygreg
 
 
 https://shouldiuseanaccessibilityoverlay.com/
+
 https://www.w3.org/standards/webdesign/accessibility
+
 https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker
+
 https://github.com/dequelabs/axe-core/blob/develop/doc/projects.md#deque-projects
+
 https://pa11y.org/
-https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en
+
+https://chrome.google.com/webstore/detail/accessibility-insights-fo/
+
+pbjjkligggfmakdaogkfomddhfmpjeni?hl=en
