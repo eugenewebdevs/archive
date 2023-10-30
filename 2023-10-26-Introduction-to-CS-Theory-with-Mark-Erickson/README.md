@@ -58,6 +58,9 @@ Slide 13:
 Slide 14:
 - [Halting problem](https://en.wikipedia.org/wiki/Halting_problem)
 
+Slide 15:
+- [Big-O Complexity Chart](https://www.bigocheatsheet.com/)
+
 Slide 16:
 - [P and NP](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 - [unsolved](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
