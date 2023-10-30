@@ -6,7 +6,7 @@ Join us and Mark Erickson as he attempts to condense 2-3 years of grad level mat
 
 ## Event Links
 
-- [Video](https://www.youtube.com/watch?v=LPQnKAmuEKQ)
+- [Video](https://youtu.be/ymeFpWFH790?si=ErcNob-MXjuWUUQc)
 - [MeetUp](https://www.meetup.com/eugenewebdevs/events/296574669/)
 
 ## Resources
